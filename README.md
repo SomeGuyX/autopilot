@@ -11,7 +11,7 @@ local useESXanimations = false      -- If you use esx_animations change it to tr
 local speed = 20.0                  -- GetVehicleModelMaxSpeed(model) / 2 -- vehicle's speed
 ```
 
-#FLAGS 
+# FLAGS 
 
 edit: client.lua
 
